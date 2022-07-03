@@ -6,13 +6,13 @@ class Blocks extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.all(2.0),
+      padding: const EdgeInsets.all(0.5),
       child: Container(
         height: 50,
         width: 50,
         decoration: BoxDecoration(
           color: Colors.grey[900],
-          borderRadius: BorderRadius.circular(5),
+          borderRadius: BorderRadius.circular(3),
         ),
       ),
     );
