@@ -6,4 +6,4 @@
 https://user-images.githubusercontent.com/65752549/177334940-8801261b-47d4-4f41-b9cd-cb5c43263511.mp4
 
 
-The above video shows the app UI and Gesture  ☝🏼 :)
+The above video shows the app UI and Gesture controls ☝🏼 :)
